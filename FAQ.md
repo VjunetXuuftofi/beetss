@@ -1,6 +1,8 @@
+---
 layout: page
 title: "FAQ"
-permalink: /beetss/faq/
+permalink: /faq/
+---
 
 [Home](/)
 ![Beets](media/fresh-beets.png)
