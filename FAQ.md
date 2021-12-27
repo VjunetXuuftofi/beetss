@@ -8,7 +8,7 @@ permalink: /faq/
 
 <img src="/media/fresh-beets.png" alt="fresh beets" height="400vh"/>
 
-# Beets
+# FAQ
 
 **Why isn't this beets.com?**
 
