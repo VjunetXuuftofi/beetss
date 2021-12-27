@@ -1,3 +1,7 @@
+layout: page
+title: "FAQ"
+permalink: /faq/
+
 [Home](/)
 ![Beets](media/fresh-beets.png)
 # Beets
