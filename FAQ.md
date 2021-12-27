@@ -5,8 +5,15 @@ permalink: /faq/
 ---
 
 [Home](/)
-![Beets](media/fresh-beets.png)
+
+<img src="/media/fresh-beets.png" alt="fresh beets" height="400vh"/>
+
 # Beets
+
+**Why isn't this beets.com?**
+
+Well, beets.com is $550,000. But the real reason is that beetss sounds cooler.
+
 **Who invented the beet emoji?**
 
 The beet emoji was dreamed up by Thomas Woodside. But he didn't actually draw the emoji -- that was his friend, Nicholas
