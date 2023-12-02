@@ -21,7 +21,8 @@ Beninato. This might get ugly if Beetss is ever a billion dollar company.
 
 **I don't see a beet emoji on my phone?**
 
-That's because it hasn't been approved yet. The question above was written in light of the inevitability of its approval.
+~~That's because it hasn't been approved yet. The question above was written in light of the inevitability of its approval.~~
+It will arrive on your phone in mid 2025!
 
 **So...why does this site exist?**
 
